@@ -16,3 +16,8 @@ print id(pt1), id(pt2), id(pt3) # 打印对象的id
 # del pt2
 del pt3
 print id(pt1), id(pt2) # 打印对象的id
+
+
+pp = 1
+p = pp
+print p
