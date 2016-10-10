@@ -17,7 +17,7 @@
 # ord(x)              将一个字符转换为它的整数值
 # hex(x)              将一个整数转换为一个十六进制字符串
 # oct(x)              将一个整数转换为一个八进制字符串
-
-print int("1")
-print str(1111)
-print 3<<4
+# 
+# print int("1")
+# print str(1111)
+# print 3<<4
